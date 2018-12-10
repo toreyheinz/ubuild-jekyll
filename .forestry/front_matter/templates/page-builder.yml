@@ -34,3 +34,4 @@ fields:
   - 4-column-footer
 pages:
 - index.md
+- _posts/foo-1.md
